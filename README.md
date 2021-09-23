@@ -2,7 +2,7 @@
 
 # Welcome to MY WORK DAY SCHEDULER for Challenge 5!
 
-## This challenge entails creating a Work Day Scheduler that will utilize HTML, CSS, and JavaScript with some help from JQuery, Bootstrap, and Moment!
+## This challenge entails creating a Work Day Scheduler that utilizes HTML, CSS, and JavaScript with some help from JQuery, Bootstrap, and Moment!
 
  ### Once the Work Day Scheduler opens, you will be notified of the current day and time at the header of the page. 
  ![Header](./assets/images/header.png)
@@ -16,7 +16,7 @@
  ### When you enter text into your Work Day Scheduler and hit the save button at the right, your Schedule is saved even if the page is refreshed.
  ![Saved Schedule](./assets/images/save-schedule.png)
 
-### Click here to view my portfolio: https://jamwil1226.github.io/work-day-scheduler/
+### Click here to view the Work Day Scheduler: https://jamwil1226.github.io/work-day-scheduler/
 
 ### I hope you enjoy using this Work Day Scheduler! I welcome all contributions and feedback!
 
